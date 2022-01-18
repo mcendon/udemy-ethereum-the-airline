@@ -1,7 +1,7 @@
 {
   "name": "the-airline",
   "version": "1.0.0",
-  "description": "",
+  "description": "**Source template for my Udemy Ethereum training course at Udemy**",
   "main": "src/index.js",
   "directories": {
     "test": "test"
@@ -9,7 +9,18 @@
   "scripts": {
     "start": "webpack-dev-server --mode development --open"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlosLanderas/udemy-ethereum-the-airline.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarlosLanderas/udemy-ethereum-the-airline/issues"
+  },
+  "homepage": "https://github.com/CarlosLanderas/udemy-ethereum-the-airline#readme",
   "devDependencies": {
+    "@metamask/detect-provider": "^1.2.0",
     "babel-core": "6.26.3",
     "babel-loader": "7.1.5",
     "babel-plugin-transform-async-to-generator": "6.24.1",
@@ -19,13 +30,11 @@
     "html-webpack-plugin": "3.2.0",
     "react": "16.4.2",
     "react-dom": "16.4.2",
-    "truffle-contract": "3.0.6",
     "react-toastr": "3.0.0",
-    "web3": "1.0.0-beta.35",
+    "truffle-contract": "3.0.6",
+    "web3": "^1.7.0",
     "webpack": "4.16.5",
     "webpack-cli": "3.1.0",
     "webpack-dev-server": "3.1.5"
-  },
-  "author": "",
-  "license": "ISC"
+  }
 }
