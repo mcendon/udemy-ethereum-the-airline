@@ -1,8 +1,6 @@
-# The Airline - An Ethereum learning DAPP
+# The Decentralized Airline - An Ethereum learning DAPP
 
-**Source template for my Udemy Ethereum training course at Udemy**
+**Smart contract live on Goerli Ethereum Testnet**
 
-**If you want to get the final version of the code you can check the [final](https://github.com/CarlosLanderas/udemy-ethereum-the-airline/tree/final) branch**
-
-<img src="http://introtocrypto.com/wp-content/uploads/2017/08/ether@2x.png" height="128" width="128">
-
+Contract: 0xb02da21c7168c8a45d4f7abdf5f1809fe33808b5
+https://goerli.etherscan.io/address/0xb02da21c7168c8a45d4f7abdf5f1809fe33808b5
